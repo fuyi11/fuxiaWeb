@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "com.just.library.agentweb"
+        applicationId "com.just.library.fuxiaweb"
         minSdkVersion 14
         targetSdkVersion 25
         versionCode 1
@@ -13,10 +13,14 @@ android {
     }
     signingConfigs {
         release {
-            storeFile file("./keystore/keystore.jks")
+            storeFile file("H:/kongjian/webview/keystore.jks")
             storePassword "admin123"
             keyAlias "agentweb"
             keyPassword "admin123"
+//            keyAlias RELEASE_KEY_ALIAS
+//            keyPassword RELEASE_KEY_PASSWORD
+//            storeFile file(RELEASE_STORE_FILE)
+//            storePassword RELEASE_STORE_PASSWORD
         }
     }
     buildTypes {

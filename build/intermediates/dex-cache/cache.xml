@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="H:\kongjian\webview\AgentWeb\sample\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="H:\kongjian\webview\AgentWeb\sample\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f6d08361d0a0283458fb3cdeccd1585485bda939\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\kongjian\webview\AgentWeb\sample\libs\alipaySingle-20170510.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78241a93d61c4c13953ef7a02e63cf4dc5bea688">
+        <dex dex="H:\kongjian\webview\AgentWeb\sample\build\intermediates\transforms\dex\debug\folders\1000\2\alipaySingle-20170510_b0e61dbc9469cea77fc26dbbfa122972553562bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\kongjian\webview\AgentWeb\sample\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="703b29b64702812f09e73cb64f0fb714435527a9">
+        <dex dex="H:\kongjian\webview\AgentWeb\sample\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bf2ec56d2011dfdd28a9d4f74791614d4f342d3c\classes.dex" />
+    </item>
+
+</items>
